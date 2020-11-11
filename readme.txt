@@ -37,6 +37,7 @@ EK BİLGİLER:
 app/Helpers/Helper.php dosyası proje için genel kullanılan methodların helper dosyasıdır.
 
 Twitter api erişim bilgileri:
+
 .env dosyası içinde bulunan aşağıdaki bilgiler tweetter api erişim bilgileridir.
 TWITTER_CONSUMER_KEY=TxY9XLWV2FzybUGHZxK8L6AIx
 TWITTER_CONSUMER_SECRET=YbWe7bl5xfWwJTzXpQDUEVBlC1iwVRoxc33mgX4B43chqOf35Z
